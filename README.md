@@ -1,5 +1,5 @@
 # 🛡️ Cartilha de CyberSecurity – Projeto Final
-> **Autor(a): [Jhonata Viana Soares]**  
+> **Autor(a): Jhonata Viana Soares**  
 > **Curso de Segurança da Informação – Professor Rodrigo Moreira**
 
 ---
