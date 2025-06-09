@@ -71,17 +71,17 @@ cybermap.kaspersky.com	|Mapa de ataques em tempo real                     |
 virustotal.com	        |Escaneia arquivos e links com múltiplos antivírus |
 
 ## ✅ Boas Práticas de Segurança
-Utilize senhas longas, únicas e complexas
+- Utilize senhas longas, únicas e complexas
 
-Ative autenticação em dois fatores (2FA)
+- Ative autenticação em dois fatores (2FA)
 
-Mantenha o sistema e softwares atualizados
+- Mantenha o sistema e softwares atualizados
 
-Nunca clique em links ou anexos de remetentes desconhecidos
+- Nunca clique em links ou anexos de remetentes desconhecidos
 
-Faça backup regularmente
+- Faça backup regularmente
 
-Use VPN em redes públicas
+- Use VPN em redes públicas
 
 ## 🎁 Conteúdo Extra (opcional)
 [Vídeo] Como funciona um ataque de engenharia social – YouTube
