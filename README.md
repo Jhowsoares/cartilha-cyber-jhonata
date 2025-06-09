@@ -62,12 +62,13 @@ Esta cartilha é um guia prático e introdutório sobre segurança digital. Cria
 ---
 
 ## 🌐 Sites recomendados
-Site	Função
-haveibeenpwned.com	Verifica se seu e-mail foi vazado
-shodan.io	Busca por dispositivos vulneráveis
-thedfirreport.com	Relatórios técnicos de incidentes reais
-cybermap.kaspersky.com	Mapa de ataques em tempo real
-virustotal.com	Escaneia arquivos e links com múltiplos antivírus
+| Site                  |	Função                                           |
+|-----------------------|--------------------------------------------------|
+|haveibeenpwned.com     |Verifica se seu e-mail foi vazado                 |
+|shodan.io	            |Busca por dispositivos vulneráveis                |
+thedfirreport.com	      |Relatórios técnicos de incidentes reais           |
+cybermap.kaspersky.com	|Mapa de ataques em tempo real                     |
+virustotal.com	        |Escaneia arquivos e links com múltiplos antivírus |
 
 ## ✅ Boas Práticas de Segurança
 Utilize senhas longas, únicas e complexas
